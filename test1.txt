@@ -2,4 +2,3 @@ New file 1
 Testing change 1
 Final change after mergeDone
 update final change
-new feature change in remote
